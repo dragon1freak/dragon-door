@@ -4,7 +4,7 @@
 [ext_resource type="PackedScene" uid="uid://d0a0urr8tdjc5" path="res://scenes/door.tscn" id="2_gy3sr"]
 [ext_resource type="Script" uid="uid://33lbf3l1gqnf" path="res://scenes/player.gd" id="3_3263u"]
 [ext_resource type="Material" uid="uid://d0os3hurh3fk4" path="res://models/texture.tres" id="3_nrstc"]
-[ext_resource type="Script" uid="uid://6bfrmp0jp4lc" path="res://scripts/door.gd" id="4_7448y"]
+[ext_resource type="Script" uid="uid://6bfrmp0jp4lc" path="res://scripts/dragon_door.gd" id="4_7448y"]
 [ext_resource type="Script" uid="uid://tgqt0uf86vlg" path="res://scenes/interactor.gd" id="4_umbte"]
 [ext_resource type="Script" uid="uid://c2grl82slxsjx" path="res://scenes/player_hud.gd" id="5_dvny0"]
 [ext_resource type="Texture2D" uid="uid://dvqtlbgje62t2" path="res://scenes/grey_circle.png" id="5_ynswa"]
@@ -395,6 +395,7 @@ width = 312.0
 [node name="Player" type="CharacterBody3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
 script = ExtResource("3_3263u")
+mouse_sensitivity = 6.0
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="Player"]
 shape = SubResource("CapsuleShape3D_umbte")

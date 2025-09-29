@@ -1,7 +1,7 @@
 [gd_scene load_steps=8 format=3 uid="uid://d0a0urr8tdjc5"]
 
 [ext_resource type="PackedScene" uid="uid://bhjr5v2x0rwhv" path="res://models/wall_doorway.gltf" id="1_ba8gm"]
-[ext_resource type="Script" uid="uid://6bfrmp0jp4lc" path="res://scripts/door.gd" id="2_uvdjg"]
+[ext_resource type="Script" uid="uid://6bfrmp0jp4lc" path="res://scripts/dragon_door.gd" id="2_uvdjg"]
 [ext_resource type="AudioStream" uid="uid://tac3u2c1j3k7" path="res://audio/doorClose_4.ogg" id="3_la1wf"]
 [ext_resource type="AudioStream" uid="uid://n2ljyqvvy7lf" path="res://audio/doorOpen_1.ogg" id="4_18pbm"]
 [ext_resource type="AudioStream" uid="uid://cshl2iev6j03o" path="res://audio/doorClose_2.ogg" id="5_18pbm"]
