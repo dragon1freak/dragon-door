@@ -7,7 +7,7 @@ Features:
 - Tween settings!
 - Built in audio handling!
 
-Download the example project to give it a try or see how the different settings are used, or just take the script at `scripts/dragon_door.gd` and put it on your door!
+Download the example project to give it a try or see how the different settings are used, or just take the script at [scripts/dragon_door.gd](/scripts/dragon_door.gd) and put it on your door!
 
 ## Video Example
 Below is a video of the different doors in the example scene
