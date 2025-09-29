@@ -9,6 +9,13 @@ Features:
 
 Download the example project to give it a try or see how the different settings are used, or just take the script at `scripts/dragon_door.gd` and put it on your door!
 
+## Video Example
+Below is a video of the different doors in the example scene
+
+https://github.com/user-attachments/assets/89845308-874a-434f-9675-5586801e7cd7
+
+
+
 ## Special thanks
 Included models are from Kay Lousberg's [Dungeon Pack Remastered](https://kaylousberg.itch.io/kaykit-dungeon-remastered) under the CC0 license
 
